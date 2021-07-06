@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: react-appdeploymentError: Process completed with exit code 1.Error: Process completed with exit code 1.
+name: react-appdeployment
 
 # Controls when the workflow will run
 on:
